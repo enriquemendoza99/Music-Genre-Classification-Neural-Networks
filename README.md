@@ -24,4 +24,9 @@ Music genre classification system comparing three neural network architectures â
 7. requirements.txt â€” All required packages and versions.
 
 ## Results
-ModelBest Validation AccuracyMLP71.11%CNN61.67%Transfer Learning (ResNet18)70.56%
+
+| Model | Best Validation Accuracy |
+|---|---|
+| MLP | 71.11% |
+| CNN | 61.67% |
+| Transfer Learning (ResNet18) | **70.56%** |
