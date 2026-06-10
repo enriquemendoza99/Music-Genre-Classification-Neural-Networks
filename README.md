@@ -6,7 +6,7 @@ Music genre classification system comparing three neural network architectures â
 1. Create a virtual environment: python -m venv venv
 2. Activate it: venv\Scripts\activate (Windows) or source venv/bin/activate (Mac/Linux)
 3. Install dependencies: pip install -r requirements.txt
-4. Download the dataset from Kaggle and place the genre folders inside data/train/
+4. Download the dataset and place the genre folders inside data/train/
 5. Run scripts in this order:
    python spectrogramExtraction.py
    python spectrogramDataset.py
